@@ -1,0 +1,30 @@
+.header, .sider, .content, .footer {
+  color: white;
+}
+
+.header, .footer {
+  background: #7DBCEA;
+
+  .input {
+    width: 10%;
+    margin: 0 2%;
+    // margin: 2%;
+  }
+}
+
+.sider {
+  background: #3BA0E9;
+}
+
+.content {
+  background: #108EE9;
+  text-align: center;
+
+  p {
+    font-size: 8vh;
+  }
+}
+
+.form {
+  width: 50%;
+}
